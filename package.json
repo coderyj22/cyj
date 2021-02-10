@@ -14,6 +14,11 @@
     "coderyj",
     "vue"
   ],
+  "homepage": "https://github.com/coderyj22/cyj",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coderyj22/cyj"
+  },
   "author": "coderyj",
   "license": "MIT",
   "dependencies": {
